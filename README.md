@@ -102,8 +102,7 @@ The Excel file is organized into the following sheets:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Overview](dashboard-screenshots/dashboard-overview.png)
-
+![Dashboard Overview](dashboard-overview.png)
 ---
 
 ## 💡 Business Recommendations
